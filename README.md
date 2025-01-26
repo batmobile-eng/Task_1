@@ -36,6 +36,10 @@
 
 ## Future Enhancements
 
+![Image](https://github.com/user-attachments/assets/9199f72c-bfff-4e5b-8db3-73c58a88b824)
+
+![Image](https://github.com/user-attachments/assets/d7045915-4913-4515-a194-00fce3a9adf3)
+
 - **Improved Personalized Recommendations:** Implement more advanced recommendation algorithms (e.g., collaborative filtering) for more accurate and relevant suggestions.
 - **Enhanced Sentiment Analysis:** Use more sophisticated sentiment analysis libraries (e.g., NLTK, TextBlob) to provide more nuanced sentiment scores.
 - **User Accounts:** Add user accounts to store individual ratings and preferences for personalized recommendations.
